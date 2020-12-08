@@ -1,0 +1,8 @@
+# lector-demo
+## Язык: Python > 3.6
+## Зависимости: Lektor
+### Запустить локально: lektor server
+### Сбилдить в свою папку: lektor build --output-path path-to-build
+### Автобитл на гитхабпейжес: lektor build && lektor deploy
+### Автоматически билдит в ветке "gh-pages".
+### Ссылка https://0x7fff.github.io/lektor-demo/
